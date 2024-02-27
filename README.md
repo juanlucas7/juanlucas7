@@ -3,8 +3,8 @@
 ### Olá, sou o Juan Lucas! 
 
 - 🔭 Atualmente trabalho com Engenharia e estou buscando a migração de carreira para dados.
-- 🌱 Estou estudando Análise/Ciência de Dados.
-- 😄 Pronome: ele/dele
+- 🌱 Estou estudando:
+
 
   </div>
 <div align="center">
