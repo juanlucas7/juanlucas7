@@ -5,8 +5,11 @@
 - 🔭 Atualmente trabalho com Engenharia e estou buscando a migração de carreira para dados.
 - 🌱 Estou estudando Análise/Ciência de Dados.
 - 😄 Pronome: ele/dele
- ### Principal Linguagem vista por aqui: <div align="center">
-  <!-- Python --> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
+ ### Principais Linguagens vistas por aqui: 
+ <div align="left">
+  <!-- Python --> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"><!-- SQL --> <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
+ 
+  
 </div>
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juanlucas7&theme=algolia&show_icons=true)| ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=juanlucas7&hide=Html&theme=algolia) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=juanlucas7&theme=algolia) |
