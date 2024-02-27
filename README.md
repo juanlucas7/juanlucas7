@@ -1,6 +1,5 @@
+### Olá, sou o Juan Lucas!  
 <img align="right" src="https://komarev.com/ghpvc/?username=juanlucas7&color=00abff"><br>
-
-### Olá, sou o Juan Lucas! 
 
 - 🔭 Atualmente trabalho com Engenharia e estou buscando a migração de carreira para dados.
 - 🌱 Estou estudando:
@@ -38,5 +37,6 @@
   <a href="https://www.linkedin.com/in/juan-lucas-da-silva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1a3180&height=120&section=footer"/>  
+
 
 
