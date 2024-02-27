@@ -10,7 +10,7 @@
 <div align="center">
   <table>
     <tr>
-      <td><b> 🧪 Cientista de Dados</b></td>
+      <td><b> 🧪 Ciência de Dados</b></td>
       <td><b> 🔍 Análise de Dados</b></td>
     </tr>
     <tr>
