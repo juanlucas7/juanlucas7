@@ -11,7 +11,7 @@
   <table>
     <tr>
       <td><b> 🧪 Cientista de Dados</b></td>
-      <td><b> 🔍 Analista de Dados</b></td>
+      <td><b> 🔍 Análise de Dados</b></td>
     </tr>
     <tr>
       <td><img src="https://imarticus.org/blog/wp-content/uploads/2020/05/de.gif" width="300px" height="170px"></td>
