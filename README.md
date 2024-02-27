@@ -19,7 +19,8 @@
   <a href="https://www.linkedin.com/in/juan-lucas-da-silva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-<div align="center">
+<div align="right">
   <table>
     <tr>
       <td><img src="https://imarticus.org/blog/wp-content/uploads/2020/05/de.gif"></td>
+       <td><img src="https://indoanalytica.com/static/images/data-science-2.gif"></td>
